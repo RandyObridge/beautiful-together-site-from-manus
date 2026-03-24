@@ -161,6 +161,15 @@ ul { list-style: none; }
 
 .nav-logo-icon { flex-shrink: 0; }
 
+.nav-book-img {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  object-position: top center;
+  border-radius: 4px;
+  display: block;
+}
+
 .nav-links {
   display: flex;
   gap: 32px;
